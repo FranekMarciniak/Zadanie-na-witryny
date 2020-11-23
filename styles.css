@@ -69,4 +69,5 @@ main {
 .clock__container {
   width: 70%;
   min-height: 50px;
+  font-size: 2rem;
 }
